@@ -32,7 +32,7 @@ export default function Home() {
 
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
           <img
-            className="w-96"
+            className="w-[50%] rounded-2xl"
             src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="image1"
           />
@@ -41,7 +41,7 @@ export default function Home() {
 
       <div className="grid  place-items-center sm:mt-20">
         <img
-          className="sm:w-96 w-48"
+          className="sm:w-[50%] w-[50%] rounded-2xl"
           src="https://media.istockphoto.com/id/1342185280/photo/non-fungible-token-icon-on-abstract-technology-background.jpg?s=2048x2048&w=is&k=20&c=HbgTM_vmUhD7L-L6ES0osSgce2FM666XhcNjX6Hygm0="
           alt="image2"
         />

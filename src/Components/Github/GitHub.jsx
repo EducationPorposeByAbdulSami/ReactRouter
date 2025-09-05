@@ -24,7 +24,6 @@ function GitHub() {
       </div>
       <div className="bg-orange-700 text-3xl p-4 m-4 text-white text-center">
         Github followings: {data?.following}
-        {console.log(data)}
       </div>
     </>
   );
